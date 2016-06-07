@@ -1,1 +1,3 @@
 /submodules/tensorflow_rl/
+*pycache*
+*lib/tf_rl
