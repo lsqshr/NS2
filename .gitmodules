@@ -1,0 +1,3 @@
+[submodule "submodules/tensorflow_rl"]
+	path = submodules/tensorflow_rl
+	url = https://github.com/nivwusquorum/tensorflow-deepq.git
